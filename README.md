@@ -1,5 +1,3 @@
-# Webpack configurado
+# Scaffolding Webpack configurated
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
+To use this repository, you will need to run the command ```npm install```
